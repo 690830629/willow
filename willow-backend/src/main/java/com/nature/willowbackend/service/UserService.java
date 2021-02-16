@@ -6,7 +6,7 @@
  *
  * Author(s): INQ Team <iig_ipd_inq@qiyi.com>
  */
-package com.nature.willowbackend;
+package com.nature.willowbackend.service;
 
-public class Service {
+public class UserService {
 }
