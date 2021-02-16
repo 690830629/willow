@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/willow-front/willow-front.iml" filepath="$PROJECT_DIR$/willow-front/willow-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/willow-front-dog/willow-front-dog.iml" filepath="$PROJECT_DIR$/willow-front-dog/willow-front-dog.iml" />
       <module fileurl="file://$PROJECT_DIR$/willow-front2/willow-front2.iml" filepath="$PROJECT_DIR$/willow-front2/willow-front2.iml" />
     </modules>
   </component>

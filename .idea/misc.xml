@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/willow-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/willow-front-react/pom.xml" />
       </list>
     </option>
   </component>
